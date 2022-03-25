@@ -9,7 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <html>
- 
+ <head>
+  <link rel="stylesheet" type="text/css" href="https://NewCoderLegend.github.io/index.css">
+ </head>
 <body>
   <h1>Kirby Walper</h1>
   <p>Welcome to my website! What's up y'all!?</p>
