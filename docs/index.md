@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  
 <body>
   <h1>Kirby Walper</h1>
-  <p>Welcome to my website!</p>
+  <p>Welcome to my website! What's up y'all!?</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
  
